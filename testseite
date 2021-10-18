@@ -1,7 +1,30 @@
-<html>
+<!DOCTYPE html>
+<html lang="de">
   <head>
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1VRG63FL5T"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1VRG63FL5T');
+</script>
+    
+    <title>
+       Dies soll eine Testseite sein
+    </title>
   </head>
+  
   <body>
-    Testseite der Gruppe "digitale Arbeitsplatzkoordination"
+    <h1>
+      <strong>Auf dieser Seite sollen die verschieden Funktionen von html getestet werden</strong>
+    </h1>
+    <h2>
+      <p>Dies ist die zweite Textebene</p>
+      <p>Auf der zweiten Textebene befinden sich zwei Absätze</p>
+      <p>Hier ist ein Link zu einer</p> <a href"https://paltena.github.io/zweite.html">zweiten Seite</a>
+    </h2>
   </body>
 </html>
